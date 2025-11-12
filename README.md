@@ -1,3 +1,4 @@
-git init
-git add .
-git commit -m "Primer commit: proyecto calculadora IMC
+git remote add origin https://github.com/tuUsuario/calculadora-imc.git
+git branch -M main
+git push -u origin main
+
