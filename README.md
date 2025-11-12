@@ -1,2 +1,3 @@
-# IMC-CALCULADORA
-Pagina para calcular tu indice de masa corporal
+git init
+git add .
+git commit -m "Primer commit: proyecto calculadora IMC
